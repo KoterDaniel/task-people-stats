@@ -60,5 +60,3 @@ class Person {
         return firstName;
     }
 }
-
-/// ala ma kota a kot ma ale
